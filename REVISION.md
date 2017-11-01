@@ -1,5 +1,10 @@
 # Revision History
 
+## v1.0.0 Assignment Completed (2017-11-01)
+Assignment completed.
+
+TODO: Add the completed text to kmom01.
+
 ## v0.0.2 Added misc files (2017-11-01)
 Created readme, licence, and this file.
 

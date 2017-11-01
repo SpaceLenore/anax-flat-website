@@ -1,7 +1,13 @@
-Why we use Anax for this course
+About
 ==============================================
 
-We're using Anax because:
+This course is called Design but it's about the code aspect of design.
+
+[This site on github](https://github.com/SpaceLenore/anax-flat-website)
+
+
+
+### We're using Anax because:
 
 * Learning about frameworks
 
