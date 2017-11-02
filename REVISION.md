@@ -1,5 +1,8 @@
 # Revision History
 
+## v1.0.1 Updated .gitignore (2017-11-02)
+Added themes/ to .gitignore, we'll create the 
+
 ## v1.0.0 Assignment Completed (2017-11-01)
 Assignment completed.
 
