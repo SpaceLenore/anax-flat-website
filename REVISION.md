@@ -1,7 +1,10 @@
 # Revision History
 
+## v1.0.2 Added the completed kmom01 text to 110_kmom01.md
+Added the completed text for kmom01. (also fixed a mistake in REVISION.md)
+
 ## v1.0.1 Updated .gitignore (2017-11-02)
-Added themes/ to .gitignore, we'll create the 
+Added themes/ to .gitignore
 
 ## v1.0.0 Assignment Completed (2017-11-01)
 Assignment completed.
