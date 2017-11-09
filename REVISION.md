@@ -1,5 +1,12 @@
 # Revision History
 
+## v2.0.0
++Added a custom theme. (check out the [theme reop](https://github.com/SpaceLenore/anax-flat-theme)).
+
++added link to theme on the about page
+
++fixed flash image on report page
+
 ## v1.0.2 Added the completed kmom01 text to 110_kmom01.md
 Added the completed text for kmom01. (also fixed a mistake in REVISION.md)
 

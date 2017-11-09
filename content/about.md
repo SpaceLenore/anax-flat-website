@@ -3,7 +3,8 @@ About
 
 This course is called Design but it's about the code aspect of design.
 
-[This site on github](https://github.com/SpaceLenore/anax-flat-website)
+[This site on GitHub](https://github.com/SpaceLenore/anax-flat-website)
+[This theme on GitHub](https://github.com/SpaceLenore/anax-flat-theme)
 
 
 
