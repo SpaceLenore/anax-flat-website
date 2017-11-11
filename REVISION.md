@@ -1,13 +1,17 @@
 # Revision History
 
-## v2.0.0
+## v2.0.1 (2017-11-11)
+Added report for Kmom02
+Fixed dates in REVISION.md
+
+## v2.0.0 (2017-11-09)
 +Added a custom theme. (check out the [theme reop](https://github.com/SpaceLenore/anax-flat-theme)).
 
 +added link to theme on the about page
 
 +fixed flash image on report page
 
-## v1.0.2 Added the completed kmom01 text to 110_kmom01.md
+## v1.0.2 Added the completed kmom01 text to 110_kmom01.md (2017-11-5)
 Added the completed text for kmom01. (also fixed a mistake in REVISION.md)
 
 ## v1.0.1 Updated .gitignore (2017-11-02)
