@@ -1,5 +1,8 @@
 # Revision History
 
+## v2.0.2 (2017-11-14)
+Added Image to index. 
+
 ## v2.0.1 (2017-11-11)
 Added report for Kmom02
 Fixed dates in REVISION.md
