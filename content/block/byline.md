@@ -1,4 +1,4 @@
-<div class="byline" style="border: 1px solid #ccc; width:40%;margin-bottom:2em;padding-left:1em;">
+<div class="byline">
     <img src="img/me.png" class="bylineimg" alt="Vidar.png" width="100px">
     <p class="bylinetext">
         <a href="http://www.student.bth.se/~vite17/dbwebb-kurser/htmlphp/me/kmom01/me1/me.php" class="inlinelink">Vidar</a><br>

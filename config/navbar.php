@@ -32,6 +32,21 @@ return [
                 "url"   => $this->di->get("url")->create("testpage"),
                 "title" => t("A Page For Testing")
             ],
+            "grid" => [
+                "text"  => t("grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Example content for testing grid")
+            ],
+            "typography" => [
+                "text"  => t("typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Example content for testing typography grid")
+            ],
+            "theme-selector" => [
+                "text"  => t("Theme Selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Select a theme")
+            ],
         ],
     ],
 

@@ -4,7 +4,7 @@ titleBreadcrumb: Home
 Design with Anax Flat
 ===============================
 
-![this is me](img/designtext.jpg)
+<img class="indeximage" src="img/designtext.jpg" alt="Design!">
 
 Here we are again with a new course. This time it's design.
 
