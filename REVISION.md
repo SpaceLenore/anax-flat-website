@@ -1,5 +1,10 @@
 # Revision History
 
+## v4.0.0
+Added Theme-Selector  
+Added navbar link to Theme-Selector  
+Added themes  
+
 ## v3.0.0
 Added id to index image.  
 Moved byline style to less file  
