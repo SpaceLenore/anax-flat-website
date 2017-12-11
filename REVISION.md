@@ -1,5 +1,17 @@
 # Revision History
 
+## v5.0.0
+Added blogg  
+Added responsive figure  
+Added Images  
+Added Author folder for bylines  
+Added all new content to navbar  
+fixed broken cimage  
+fixed .htaccess files  
+Ran a composer update  
+Sneakily added analysis folder  
+Sneakily added analysis 600  
+
 ## v4.0.0
 Added Theme-Selector  
 Added navbar link to Theme-Selector  

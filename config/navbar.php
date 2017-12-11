@@ -47,6 +47,24 @@ return [
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Select a theme")
             ],
+            "analysis" => [
+                "text"  => t("analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analysis"),
+                "mark-if-parent" => true,
+            ],
+            "images" => [
+                "text"  => t("images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("images"),
+                "mark-if-parent" => true,
+            ],
+            "blogg" => [
+                "text"  => t("blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
